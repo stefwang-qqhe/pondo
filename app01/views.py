@@ -8,3 +8,4 @@ from django.shortcuts import render
 # add wk 继续开发其他一半功能, 提交 20220818
 # add wk 在公司开发功能1 20220818
 # add wk 家里开发功能1 20220818  (index 1)
+# add wk 在公司开发功能2 20220818 (index 2)
